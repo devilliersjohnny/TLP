@@ -1,0 +1,15 @@
+baseURL: http://example.org/
+defaultContentLanguage: en-us
+title: The Lazy Programmer
+# Alternate Copyright Text
+copyright: Digital Vernacular za
+# Control the number of pages displayed
+paginate: 5
+
+# This is required for hugo to allow HTML in markdown
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+

@@ -1,0 +1,8 @@
+# menu links via config file
+
+main:
+- name: Github
+  url: https://github.com/devilliersjohnny/TLP/blob/main/README.md
+  weight: 90
+  params:
+    blank: true
